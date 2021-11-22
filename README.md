@@ -1,2 +1,2 @@
 # rumplestiltsken.github.io
-Trying this thing out
+I'm working to build my portfolio in order to land an entry-level developer position.
