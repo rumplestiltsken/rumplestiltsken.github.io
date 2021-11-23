@@ -1,6 +1,6 @@
-from tkinter import *
-from tkinter.ttk import *
-
-from time import strftime
-
-root = Tk
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" conten="width=device-width, initial-scale=1.0">
+  
